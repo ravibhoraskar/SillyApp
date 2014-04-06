@@ -10,6 +10,7 @@ using System.Windows.Navigation;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
 using Test.Resources;
+using Facebook;
 
 namespace Test
 {
